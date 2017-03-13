@@ -6,7 +6,7 @@ The OS I had is Kali Linux(Debian), the commands will be same for Ubuntu and afa
 <a href="http://imgur.com/oXGlZbf"><img src="http://i.imgur.com/oXGlZbf.png" title="source: imgur.com" /></a>
 
 The first step is installing Anaconda 2(the link is given on the page)/3. I already had anaconda3 I still needed to fetch
-some files to configure it.
+some files to configure it. Follow the link on the website to get the sh version of the package.
  Let's execute from STEP 3.
 
 Errors that might pop up: 
