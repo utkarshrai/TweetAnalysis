@@ -1,4 +1,4 @@
-## Graphlab on Linux
+## Graphlab on Kali Linux
 
 Which Linux are the commands for?
 The OS I had is Kali Linux(Debian), the commands will be same for Ubuntu and afaik any other distribution.
